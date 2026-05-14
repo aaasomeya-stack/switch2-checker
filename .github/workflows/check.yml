@@ -2,7 +2,6 @@ name: Switch2 Checker
 
 on:
   workflow_dispatch:
-
   schedule:
     - cron: '*/5 * * * *'
 
